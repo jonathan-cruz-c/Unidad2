@@ -1,4 +1,4 @@
-public class TablasForAnidados { // Definimos la clase principal llamada TablasMultiplicar
+public class TablasForAnidados { // Definimos la clase principal llamada TablasForAnidados
     public static void main(String[] args) { // Método main: punto de entrada del programa
 
         // Bucle externo: Recorre los números del 1 al 9 (las tablas de multiplicar)
